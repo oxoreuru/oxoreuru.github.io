@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://oxoreuru.github.io/Kql/sitemap_index.txt
+Sitemap: https://oxoreuru.github.io/KvP/sitemap_index.txt
+Sitemap: https://oxoreuru.github.io/rND/sitemap_index.txt
+Sitemap: https://oxoreuru.github.io/ypb/sitemap_index.txt
